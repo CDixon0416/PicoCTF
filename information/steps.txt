@@ -1,0 +1,4 @@
+vim cat.jpg
+find line 7 <cc:license rdf:resource='cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9'/>
+echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d >> steps.txt
+picoCTF{the_m3tadata_1s_modified}
